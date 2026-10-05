@@ -1,6 +1,6 @@
-# ZStore -- Inventory Management System
+# Zstore - Inventory Management System
 
-ZStore is a mobile inventory and sales management application built with
+Zstore is a mobile inventory and sales management application built with
 **Flutter** and **Dart**. It is designed to help small businesses manage
 products, stock, employees, suppliers, and sales from a single mobile
 application.
@@ -52,7 +52,7 @@ requiring a separate backend server.
 ## 🏗️ Core Modules
 
 ``` text
-ZStore
+Zstore
 │
 ├── Dashboard
 │   └── Business & inventory overview
@@ -84,7 +84,7 @@ ZStore
 
 ## 🗄️ Data Management
 
-ZStore uses a local **SQLite database** to store application data.
+Zstore uses a local **SQLite database** to store application data.
 
 The database is responsible for maintaining information such as:
 
@@ -123,7 +123,7 @@ Generate Bill / Invoice
 
 ## 📱 Application Purpose
 
-ZStore was developed as a practical inventory management solution for
+Zstore was developed as a practical inventory management solution for
 businesses that need a simple way to manage their daily operations from
 a mobile device.
 
@@ -147,7 +147,7 @@ Make sure you have the following installed:
 Clone the repository:
 
 ``` bash
-git clone https://github.com/nazibur74/ZStore.git
+git clone https://github.com/nazibur74/Zstore.git
 ```
 
 Navigate to the project directory:
@@ -168,7 +168,7 @@ Run the application:
 flutter run
 ```
 
-> Replace the repository URL above if the ZStore repository uses a
+> Replace the repository URL above if the Zstore repository uses a
 > different GitHub URL.
 
 ## 📂 Suggested Project Structure
@@ -187,13 +187,13 @@ The exact structure may vary depending on the current implementation.
 
 ## 🔐 Data Storage
 
-ZStore is designed around local-first data management. Business records
+Zstore is designed around local-first data management. Business records
 are stored locally using SQLite, allowing the core inventory and sales
 functionality to work without depending on a remote database.
 
 ## 🎯 Project Goals
 
-The main goals of ZStore are to:
+The main goals of Zstore are to:
 
 -   Simplify inventory management
 -   Reduce manual record keeping
@@ -207,7 +207,7 @@ The main goals of ZStore are to:
 
 **Status:** Completed / Portfolio Project
 
-ZStore was developed as a Flutter-based inventory management application
+Zstore was developed as a Flutter-based inventory management application
 demonstrating practical mobile application development, local database
 management, CRUD operations, POS functionality, and business data
 handling.
